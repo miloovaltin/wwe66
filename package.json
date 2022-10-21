@@ -1,0 +1,16 @@
+{
+"name": "wwe66",
+"theme": "wwe66",
+"version": "10.10.9",
+"description": "wwe66 สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"wwe66",
+"wwe66 เครดิตฟรี",
+"wwe66 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/wwe66",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
